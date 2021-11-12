@@ -1,13 +1,13 @@
 import streamlit as st
 from PIL import Image
-import pandas as pd
+# import pandas as pd
 
 #Loading dataset
 
-data = pd.read_csv(r'C:\Users\Natasha\Desktop\respiratory_disease_detection\notebooks\out2.csv')
+# data = pd.read_csv(r'C:\Users\Natasha\Desktop\respiratory_disease_detection\notebooks\out2.csv')
 
 #Previewing data
-data.head()
+# data.head()
 
 header = st.container()
 dataset = st.container()
