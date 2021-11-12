@@ -37,8 +37,8 @@ with header:
 #     st.image(img5)
 #     st.markdown('* **Fig.3** Shows the distribution of infections per age.')
 
-#     link = '[Tableau](https://public.tableau.com/app/profile/natasha.gwena/viz/RespiratoryDiseaseDetectionAnalysis/Story3?publish=yes)'
-#     st.markdown(link, unsafe_allow_html=True)
+     link = '[Tableau](https://public.tableau.com/app/profile/natasha.gwena/viz/RespiratoryDiseaseDetectionAnalysis/Story3?publish=yes)'
+     st.markdown(link, unsafe_allow_html=True)
 
     #
 
