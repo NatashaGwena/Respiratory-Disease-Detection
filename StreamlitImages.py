@@ -23,9 +23,9 @@ with features:
     st.header('These are plots on the Respiratory Diseases within the dataset')
 
 
-#     img1 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_1.png")
-#     st.image(img1)
-#     st.markdown('* **Fig.1** Shows the Distribution of Respiratory Diseases within the dataset.')
+    img1 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_1.png")
+    st.image(img1)
+    st.markdown('* **Fig.1** Shows the Distribution of Respiratory Diseases within the dataset.')
     
 
 #     img3 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_3.png")
