@@ -28,14 +28,14 @@ with features:
     st.markdown('* **Fig.1** Shows the Distribution of Respiratory Diseases within the dataset.')
     
 
-#     img3 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_3.png")
-#     st.image(img3)
-#     st.markdown('* **Fig.2** Shows the relationship between the rate of infections between both sexes.')
+    img3 = Image.open("Figure_3.png")
+    st.image(img3)
+    st.markdown('* **Fig.2** Shows the relationship between the rate of infections between both sexes.')
   
 
-#     img5 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_5.png")
-#     st.image(img5)
-#     st.markdown('* **Fig.3** Shows the distribution of infections per age.')
+    img5 = Image.open("Figure_5.png")
+    st.image(img5)
+    st.markdown('* **Fig.3** Shows the distribution of infections per age.')
 
     link = '[Tableau](https://public.tableau.com/app/profile/natasha.gwena/viz/RespiratoryDiseaseDetectionAnalysis/Story3?publish=yes)'
     st.markdown(link, unsafe_allow_html=True)
