@@ -1,11 +1,6 @@
 import streamlit as st
 from PIL import Image
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import scipy.stats as stats
-import warnings
-warnings.simplefilter(action='ignore', category=FutureWarning)
+
 
 #Loading dataset
 
