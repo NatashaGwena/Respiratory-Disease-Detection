@@ -19,8 +19,8 @@ with header:
     st.title('Respiratory Disease Detection Project')
     st.text('This page contains visualizations on the analysis on the on Respiratory Disease Analysis')
 
-# with features:
-#     st.header('These are plots on the Respiratory Diseases within the dataset')
+with features:
+    st.header('These are plots on the Respiratory Diseases within the dataset')
 
 
 #     img1 = Image.open("https://github.com/NatashaGwena/Respiratory-Disease-Detection/blob/master/Figure_1.png")
